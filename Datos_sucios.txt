@@ -1,0 +1,6 @@
+producto,cantidad,precio_unidad
+Lavandina concentrada , 2 , 4000
+Detergente tipo Magistral , 5 , 3100
+lavandina concentrada , 1 , 4000
+Jabón líquido Skip , 3 , 5000
+Detergente tipo Magistral , 2 , 3100
